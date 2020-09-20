@@ -7,4 +7,5 @@ For 30 years of working experience, I have mastered new things more than once an
 It's also a good way to train your brain :)
 learning new things from everywhere etc.).
 4. Skills: while minimal knowledge of Python, JS, HTML, CSS
-5. English: A2 pre-intermediate
+5. Social links: https://www.linkedin.com/in/bladerunner2021/; https://www.facebook.com/nikolenko.sergey
+6. English: A2 pre-intermediate
